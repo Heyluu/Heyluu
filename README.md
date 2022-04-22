@@ -13,7 +13,7 @@ MISSION
 Our mission is to provide the most realistic experience using the most advanced technologies available.
 
 
-<!---------- Frequently Asked Questions (FAQs) ---------->
+<---------- Frequently Asked Questions (FAQs) ---------->
 
 How to Install Heyluu?
 
