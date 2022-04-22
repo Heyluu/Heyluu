@@ -11,3 +11,14 @@ Our vision is to give you a virtual environment where you can work, get entertai
 
 MISSION
 Our mission is to provide the most realistic experience using the most advanced technologies available.
+
+
+<!---------- Frequently Asked Questions (FAQs) ---------->
+
+How to Install Heyluu?
+
+Please Visit: https://hluu.us/How-to-Install-Heyluu
+
+How to Join a Virtual Event in the Metaverse?
+
+Please Visit: https://hluu.us/Event-Instructions
